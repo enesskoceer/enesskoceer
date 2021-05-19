@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesskoceer
-- 👀 I’m studying Techno-Anthropology in Aalborg University in Denmark, and have always been fascinated by coding and computer science
-- 🌱 I’m currently learning the basics in coding through harvards free course in computer science
+- 👀 I’m studying 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
